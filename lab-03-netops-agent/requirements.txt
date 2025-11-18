@@ -1,0 +1,2 @@
+# Python dependencies for netops-troubleshooter-agent
+# No additional packages required - agent uses connectors and MCP servers

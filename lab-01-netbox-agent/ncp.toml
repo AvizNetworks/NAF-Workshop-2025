@@ -1,0 +1,11 @@
+[project]
+name = "netbox-agent"
+version = "0.1.0"
+description = "Netbox Agent"
+
+[build]
+python_version = "3.11"
+entry_point = "agents.main_agent:agent"
+
+[platform]
+url = "https://naflab2.aviznetworks.com:9001"

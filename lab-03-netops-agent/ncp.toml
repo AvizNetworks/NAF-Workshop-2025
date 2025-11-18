@@ -1,0 +1,11 @@
+[project]
+name = "netops-agent"
+version = "0.1.0"
+description = "Lab 3: Network operations troubleshooting agent with ServiceNow, Splunk"
+
+[build]
+python_version = "3.11"
+entry_point = "agents.main_agent:agent"
+
+[platform]
+url = "https://naflab3.aviznetworks.com:9001"

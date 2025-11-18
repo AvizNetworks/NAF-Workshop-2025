@@ -1,0 +1,2 @@
+# System dependencies for netops-troubleshooter-agent
+# No additional system packages required
